@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #5abce2;
+}
+
+.cuerpo{
+  background-color: rgb(226, 206, 218);
+}
+
+.seccion{
+  background-color: tomato;
+  color: burlywood;
+}
