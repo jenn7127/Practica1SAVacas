@@ -15,15 +15,6 @@ npm start
 ```
 
 
-**Importante**
-
-Si miran que alguien agrego cambios al package.json
-
-```
-npm install
-```
-
-
 ## Pruebas Unitarias
 
 Se utilizara `mocha`, este se invoca con
